@@ -218,3 +218,6 @@ __marimo__/
 
 talkingdata-adtracking-fraud-detection.zip
 talkingdata-adtracking-fraud-detection/
+data/
+
+.DS_Store
