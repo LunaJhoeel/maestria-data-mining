@@ -1,7 +1,7 @@
 import duckdb
 
-RUTA_DATA_0RIGINAL = "talkingdata-adtracking-fraud-detection/train.csv"
-RUTA_DATA_TRANSFORMADA = "talkingdata-adtracking-fraud-detection/train.parquet"
+RUTA_DATA_0RIGINAL = "data/train.csv"
+RUTA_DATA_TRANSFORMADA = "data/train.parquet"
 
 # duckdb.sql(f"SELECT * FROM '{RUTA_DATA_0RIGINAL}' LIMIT 5").show()
 
