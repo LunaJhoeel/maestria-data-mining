@@ -1,6 +1,7 @@
 Descarga directa
 ```bash
-kaggle competitions download -c talkingdata-adtracking-fraud-detection -p /home/jhoeel/Documents/maestria/data-mining --force
+kaggle competitions download -c talkingdata-adtracking-fraud-detection -p /home/jhoeel/Documents/maestria/maestria-data-mining --force
+unzip -o talkingdata-adtracking-fraud-detection.zip -d data
 ```
 
 ```zsh
