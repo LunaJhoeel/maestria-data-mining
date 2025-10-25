@@ -221,3 +221,5 @@ talkingdata-adtracking-fraud-detection/
 data/
 
 .DS_Store
+
+catboost_info
